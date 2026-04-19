@@ -390,5 +390,13 @@
     "max": 5,
     "pct": 100,
     "updated": "2026-04-19T13:56:00.872Z"
+  },
+  "gunti-sandeep": {
+    "name": "Gunti Sandeep",
+    "level": 2,
+    "score": 3,
+    "max": 5,
+    "pct": 60,
+    "updated": "2026-04-19T16:57:34.055Z"
   }
 }
