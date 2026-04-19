@@ -1,0 +1,1 @@
+I originally started in the Content & Research track but realized I wanted to build a technical solution. I pivoted to Track A (Agent Builders). I successfully built a Python agent that connects to the LPI MCP server, utilizes the smile_overview and query_knowledge tools, and includes source citations for explainable AI.
